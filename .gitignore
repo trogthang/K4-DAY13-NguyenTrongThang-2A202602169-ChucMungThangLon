@@ -35,3 +35,8 @@ K4-DAY13-*/
 !data/ATTRIBUTION.md
 !data/LICENSE.txt
 student-bundles/
+
+# Allow submitted report markdown files
+!report/K4-DAY13-*/
+!report/K4-DAY13-*/*.md
+
